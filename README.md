@@ -54,12 +54,6 @@ Enter a text description or choose a suggestion from the dropdown to generate an
 
 
 
-
-*Input (Text-to-Image):*
-*Text description:* "A robot playing chess with a human."
-*Output:*
-An image of a robot playing chess with a human.
-
 ## Known Issues
 Without GPU support, the processing time may significantly increase.
 
