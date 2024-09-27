@@ -41,23 +41,21 @@ Enter a text description or choose a suggestion from the dropdown to generate an
 
 ## Example
 *Input (Image Captioning):*
-
 Upload an image of a sunset.
-
 *Output:*
-
 Text: "A beautiful sunset over the mountains."
 Audio: Speech output of the caption.
 
+
+
+
 *Input (Text-to-Image):*
-
 *Text description:* "A robot playing chess with a human."
-
 *Output:*
 An image of a robot playing chess with a human.
 
 ## Known Issues
-without using GPU it may take to much time to process 
+Without GPU support, the processing time may significantly increase.
 Some languages may not be fully supported for speech output.
 
 ## Performance Tips
@@ -72,5 +70,3 @@ A tutorial video demonstrating the project is available in the downloads folder.
 ## Demo
 You can try out the project on Hugging Face Spaces: Demo on Hugging Face
 
-يي
-سسيب
