@@ -56,11 +56,14 @@ An image of a robot playing chess with a human.
 
 ## Known Issues
 Without GPU support, the processing time may significantly increase.
+
 Some languages may not be fully supported for speech output.
 
 ## Performance Tips
 If there's a slowdown in translation or image generation, you can use cloud computing services like Google Colab for better performance.
+
 If you have a GPU, ensure that the models are utilizing it to speed up processing.
+
 
 ## Tutorial Video
 A tutorial video demonstrating the project is available in the downloads folder. You can find it as ****** for a detailed walkthrough on how to use this Image-Captioning-Text2Image interface.
