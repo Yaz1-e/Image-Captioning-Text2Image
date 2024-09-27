@@ -40,11 +40,17 @@ Upload an image to get an auto-generated caption and its speech output.
 Enter a text description or choose a suggestion from the dropdown to generate an image.
 
 ## Example
-*Input (Image Captioning):*
-Upload an image of a sunset.
-*Output:*
-Text: "A beautiful sunset over the mountains."
-Audio: Speech output of the caption.
+
+**Image Captioning:**
+- **Input:** Upload an image of a sunset.
+- **Output:**
+  - **Text:** "A beautiful sunset over the mountains."
+  - **Audio:** Speech output of the caption.
+
+**Text-to-Image:**
+- **Input:** Text description: "A robot playing chess with a human."
+- **Output:** An image of a robot playing chess with a human.
+
 
 
 
