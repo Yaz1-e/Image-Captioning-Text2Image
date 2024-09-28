@@ -71,5 +71,6 @@ A tutorial video demonstrating the project is available in the downloads folder.
 
 
 ## Demo
-You can try out the project on Hugging Face Spaces: Demo on Hugging Face
+
+You can try out the project on Hugging Face Spaces: [Demo on Hugging Face](https://huggingface.co/spaces/Yaz1-e/Image-Captioning-Text2Image)
 
