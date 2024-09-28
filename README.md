@@ -69,6 +69,10 @@ If you have a GPU, ensure that the models are utilizing it to speed up processin
 A tutorial video demonstrating the project is available in the downloads folder. You can find it as ****** for a detailed walkthrough on how to use this Image-Captioning-Text2Image interface.
 
 
+### Slides Presentation
+You can download the project presentation slides from [here](./Image%20Captioning%20and%20Text%20to%20Image.pdf).
+
+
 
 ## Demo
 
