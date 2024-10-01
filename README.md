@@ -66,7 +66,9 @@ If you have a GPU, ensure that the models are utilizing it to speed up processin
 
 
 ## Tutorial Video
-A tutorial video demonstrating the project is available in the downloads folder. You can find it as ****** for a detailed walkthrough on how to use this Image-Captioning-Text2Image interface.
+
+A tutorial video demonstrating the project is available in the downloads folder. You can find it as [final_project2.mp4](./final_project2.mp4) for a detailed walkthrough on how to use this Image-Captioning-Text2Image interface.
+
 
 
 ### Slides Presentation
