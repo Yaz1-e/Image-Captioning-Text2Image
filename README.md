@@ -72,7 +72,7 @@ A tutorial video demonstrating the project is available in the downloads folder.
 
 
 ### Slides Presentation
-You can download the project presentation slides from [here](./Image%20Captioning%20and%20Text%20to%20Image.pdf).
+You can download the project presentation slides from [here](./Image%20Captioning%20and%20Text%20to%20Image%20(2).pdf).
 
 
 
